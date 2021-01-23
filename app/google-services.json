@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574998053084",
+    "project_id": "realtimedb-c7a53",
+    "storage_bucket": "realtimedb-c7a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574998053084:android:a8dfb4b0973d462cbcf419",
+        "android_client_info": {
+          "package_name": "com.alden.realdimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574998053084-06n5jhj6nj7i9r1c921qji6gjck66o3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEb4kJqZiO2qRU7UihXUoOpqWJ9Tm8dCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574998053084-06n5jhj6nj7i9r1c921qji6gjck66o3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
